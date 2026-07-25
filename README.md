@@ -1,15 +1,6 @@
-# ATC — Algorithmic Thinking Club
+# ATC Algorithmic Thinking Club
 
 Official website for the Algorithmic Thinking Club at Bonney Lake High School.
-
-## Setup
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
 
 ## Stack
 
