@@ -78,7 +78,7 @@ export default function ProjectsPage() {
           All our code is public.
         </p>
         <Button
-          href="https://github.com/Algorithmic-Thinking-Club"
+          href="https://github.com/BLHS-CS-Club"
           external
           variant="secondary"
         >
