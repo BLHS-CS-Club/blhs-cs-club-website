@@ -77,7 +77,7 @@ export default function JoinPage() {
             </p>
             <div className="mt-8 space-y-4 font-terminal text-xl leading-snug">
               <p className="text-foreground/80">
-                The CS Club is the first computer
+                The CS Club is the computer
                 science club at Bonney Lake High School. Most weeks that means
                 building a project with other people who like making things.
                 Some weeks it means getting ready for SkillsUSA.

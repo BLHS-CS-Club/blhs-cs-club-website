@@ -4,13 +4,13 @@ import { useEffect, useState } from "react";
 
 /**
  * The hero title, typed out like a terminal. On load it types "Computer
- * Science Club", then backspaces and types "The first computer science club at
+ * Science Club", then backspaces and types "The computer science club at
  * BLHS", backspaces again and returns to the club name — then replays every
  * ~17s. Reduced-motion just shows the club name.
  */
 
 const A = "Computer Science Club";
-const B = "The first computer science club at BLHS";
+const B = "The computer science club at BLHS";
 
 export default function CyclingTitle({ className = "" }: { className?: string }) {
   const [text, setText] = useState(A);

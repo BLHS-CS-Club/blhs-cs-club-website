@@ -380,7 +380,7 @@ export default function GameHome() {
                 </p>
               </div>
               <p className="mt-4 font-terminal text-xl leading-snug text-foreground/80">
-                We&apos;re the <span className="text-accent">first</span> computer
+                We&apos;re the computer
                 science club at Bonney Lake High School.
               </p>
               <ul className="mt-6 space-y-4">

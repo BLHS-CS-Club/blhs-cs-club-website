@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     template: "%s | BLHS CS Club",
   },
   description:
-    "BLHS CS Club, the first computer science club at Bonney Lake High School.",
+    "BLHS CS Club, the computer science club at Bonney Lake High School.",
 };
 
 export default function RootLayout({
