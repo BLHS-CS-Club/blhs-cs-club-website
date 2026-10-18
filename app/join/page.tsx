@@ -69,7 +69,7 @@ export default function JoinPage() {
                 label="Thor, the Adventure Game hero"
               />
               <h2 className="font-pixel text-2xl uppercase tracking-wide sm:text-3xl">
-                Join ATC
+                Join the CS Club
               </h2>
             </div>
             <p className="mt-4 font-terminal text-2xl text-foreground/60">
@@ -77,7 +77,7 @@ export default function JoinPage() {
             </p>
             <div className="mt-8 space-y-4 font-terminal text-xl leading-snug">
               <p className="text-foreground/80">
-                ATC, the Algorithmic Thinking Club, is the first computer
+                The CS Club is the first computer
                 science club at Bonney Lake High School. Most weeks that means
                 building a project with other people who like making things.
                 Some weeks it means getting ready for SkillsUSA.
@@ -108,7 +108,7 @@ export default function JoinPage() {
         <div className="relative h-72 lg:h-auto lg:flex-1">
           <Image
             src="/club-booth.jpg"
-            alt="ATC booth at BLHS club fair"
+            alt="CS Club booth at the BLHS club fair"
             fill
             sizes="(min-width: 1024px) 50vw, 100vw"
             className="object-cover opacity-65"

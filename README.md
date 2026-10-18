@@ -1,6 +1,6 @@
-# ATC Algorithmic Thinking Club
+# BLHS CS Club
 
-Official website for the Algorithmic Thinking Club at Bonney Lake High School.
+Official website for the Computer Science Club at Bonney Lake High School.
 
 ## Stack
 

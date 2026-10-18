@@ -77,12 +77,12 @@ const PHOTOS = [
   },
   {
     src: "/nationals.jpg",
-    alt: "ATC members outside the SkillsUSA national conference in Atlanta",
+    alt: "CS Club members outside the SkillsUSA national conference in Atlanta",
     cap: "nationals, atlanta",
   },
   {
     src: "/club-booth.jpg",
-    alt: "ATC booth at the BLHS club fair",
+    alt: "CS Club booth at the BLHS club fair",
     cap: "club fair booth, fall 2025",
   },
 ];
@@ -230,7 +230,7 @@ export default function GameHome() {
             ▸ Press Start ◂
           </button>
           <p className="mt-6 font-terminal text-lg text-foreground/40">
-            © 2025 ATC · BLHS
+            © 2025 CS Club · BLHS
           </p>
         </motion.div>
 
@@ -380,7 +380,7 @@ export default function GameHome() {
                 </p>
               </div>
               <p className="mt-4 font-terminal text-xl leading-snug text-foreground/80">
-                ATC is the <span className="text-accent">first</span> computer
+                We&apos;re the <span className="text-accent">first</span> computer
                 science club at Bonney Lake High School.
               </p>
               <ul className="mt-6 space-y-4">

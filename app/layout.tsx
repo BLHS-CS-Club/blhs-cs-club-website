@@ -28,11 +28,11 @@ const vt323 = VT323({
 
 export const metadata: Metadata = {
   title: {
-    default: "ATC - Algorithmic Thinking Club",
-    template: "%s | ATC",
+    default: "BLHS CS Club",
+    template: "%s | BLHS CS Club",
   },
   description:
-    "The first computer science club at Bonney Lake High School.",
+    "BLHS CS Club, the first computer science club at Bonney Lake High School.",
 };
 
 export default function RootLayout({

@@ -67,7 +67,7 @@ export default function LoginPage() {
         <div className="scanlines relative border-b-2 border-line bg-panel-2 px-6 py-5">
           <p className="flex items-center gap-2 font-pixel text-[10px] uppercase tracking-[0.3em] text-accent crt-glow">
             <Image src="/logo.png" alt="" width={18} height={18} />
-            ATC Hub
+            CS Club Hub
           </p>
           <h1 className="mt-3 font-pixel text-xl uppercase tracking-wide">
             Log In

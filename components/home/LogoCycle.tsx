@@ -3,10 +3,10 @@
 import { useEffect, useRef } from "react";
 
 /**
- * The ATC logo pixelates out, morphs into the SkillsUSA logo (pixelated, then
- * crisp), holds, then reverses back to the ATC logo. Loops every 15 seconds.
+ * The club logo pixelates out, morphs into the SkillsUSA logo (pixelated, then
+ * crisp), holds, then reverses back to the club logo. Loops every 15 seconds.
  * A clean pixelation cross-morph between the two real logos — no particles.
- * Reduced-motion: static ATC logo.
+ * Reduced-motion: static club logo.
  */
 
 const CW = 240;
@@ -17,10 +17,10 @@ const MAXL = 5; // peak pixelation level
 // a simultaneous cross-dissolve + pixel bump (smoother than a hard swap).
 const S = {
   startHold: 0.3,
-  morphA: 1.45, // ATC -> SkillsUSA
+  morphA: 1.45, // club -> SkillsUSA
   skillsHold: 2.6, // SkillsUSA crisp
-  morphB: 3.75, // SkillsUSA -> ATC
-  cycle: 5.6, // then ~1.85s rest on ATC
+  morphB: 3.75, // SkillsUSA -> club
+  cycle: 5.6, // then ~1.85s rest on the club logo
 };
 
 // easeInOutCubic — smoother than quad
@@ -149,7 +149,7 @@ export default function LogoCycle({ className = "" }: { className?: string }) {
       ref={ref}
       style={{ width: CW, height: CH }}
       className={className}
-      aria-label="ATC"
+      aria-label="CS Club logo"
       role="img"
     />
   );

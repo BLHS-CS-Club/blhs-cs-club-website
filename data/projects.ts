@@ -10,7 +10,7 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: "ATC Club Website",
+    title: "CS Club Website",
     status: "active",
     progress: 99,
     description:
@@ -30,7 +30,7 @@ export const projects: Project[] = [
     title: "Adventure Game",
     status: "planned",
     description:
-      "A collaborative BLHS school-life game. The core framework is built over summer 2026, and ATC members build individual modules and minigames during the school year as plugins. Meant to be a fun onboarding project for new students and a long-term club effort.",
+      "A collaborative BLHS school-life game. The core framework is built over summer 2026, and CS Club members build individual modules and minigames during the school year as plugins. Meant to be a fun onboarding project for new students and a long-term club effort.",
     tech: ["TypeScript"],
   },
 ];

@@ -1,4 +1,4 @@
-# ATC Hub Setup
+# CS Club Hub Setup
 
 ## 1. Supabase
 

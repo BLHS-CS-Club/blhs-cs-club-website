@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "ATC",
-  fullName: "Algorithmic Thinking Club",
+  name: "CS Club",
+  fullName: "Computer Science Club",
   school: "Bonney Lake High School",
   description:
     "The computer science club at Bonney Lake High School.",

@@ -43,7 +43,7 @@ export default function HubShell({
       <header className="sticky top-0 z-50 border-b border-zinc-800 bg-zinc-950/80 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-3">
           <Link href="/hub" className="text-lg font-bold tracking-tight">
-            ATC Hub
+            CS Club Hub
           </Link>
 
           <div className="flex items-center gap-4">

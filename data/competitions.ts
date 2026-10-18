@@ -14,7 +14,7 @@ export const competitions: Competition[] = [
     date: "2026",
     result: "Podium Sweep (1st, 2nd, 3rd)",
     description:
-      "ATC took 1st, 2nd, and 3rd at SkillsUSA regionals in Computer Programming. All three qualified for state.",
+      "CS Club members took 1st, 2nd, and 3rd at SkillsUSA regionals in Computer Programming. All three qualified for state.",
   },
   {
     title: "SkillsUSA State",
@@ -22,7 +22,7 @@ export const competitions: Competition[] = [
     date: "2026",
     result: "Gold & Bronze",
     description:
-      "Two ATC members on the podium at the Washington state SkillsUSA championship in Computer Programming: gold and bronze. The gold medalist advanced to nationals.",
+      "Two CS Club members on the podium at the Washington state SkillsUSA championship in Computer Programming: gold and bronze. The gold medalist advanced to nationals.",
   },
   {
     title: "SkillsUSA Nationals",

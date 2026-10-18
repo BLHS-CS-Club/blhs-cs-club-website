@@ -3,11 +3,11 @@
 import { useCallback, useEffect, useState } from "react";
 
 const LINES = [
-  "ATC BIOS v2.0 · Bonney Lake High School",
+  "CS CLUB BIOS v2.0 · Bonney Lake High School",
   "memory check ............... 32K OK",
   "loading pixel assets ....... OK",
   "reading save file 01 ....... FOUND",
-  "launching ATC_OS",
+  "launching CS_CLUB_OS",
 ];
 
 const BOOTED_KEY = "atc-booted";
